@@ -37,7 +37,7 @@ The analysis revealed interesting insights into customer behavior and product tr
 - `/docs`: Contains description for all project
 - `/transform`: Includes Python notebooks used for data preprocessing.
 - `/visualizations`: Contains images and screenshots of the visualizations.
--`analysis_presentation.rar`: Contains presentation video for this project 
+- `analysis_presentation.rar`: Contains presentation video for this project 
 
 ## How to Run the Project
 
